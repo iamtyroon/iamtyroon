@@ -23,12 +23,17 @@
 
 ### 🔝 Repos I Contribute To
 
-| Repo | What I do there |
-|---|---|
-| [iamtyroon/Procureline](https://github.com/iamtyroon/Procureline) | Lead developer - ERP SaaS |
-| [iamtyroon/songle](https://github.com/iamtyroon/songle) | Lead developer - daily music game |
-| [riad-azz/fake-a-tweet](https://github.com/riad-azz/fake-a-tweet) | Contributor - added editable tweet poll results |
-| [miscusi-peek/cheatengine-mcp-bridge](https://github.com/miscusi-peek/cheatengine-mcp-bridge) | Forked for MCP tooling |
+<!-- CONTRIBUTED:START -->
+| Repo | Contributions |
+|---|---:|
+| [Clutch-254/TiziappP2](https://github.com/Clutch-254/TiziappP2) | 2 |
+| [P3pp3rF1y/SophisticatedBackpacks](https://github.com/P3pp3rF1y/SophisticatedBackpacks) | 2 |
+| [Asek3/Rubidium](https://github.com/Asek3/Rubidium) | 1 |
+| [CammiesCorner/Icarus](https://github.com/CammiesCorner/Icarus) | 1 |
+| [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | 1 |
+| [iamtyroon/airstem](https://github.com/iamtyroon/airstem) | 1 |
+| _+9 more_ | |
+<!-- CONTRIBUTED:END -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=iamtyroon&icon=0&color=0)](https://visitcount.itsvg.in)

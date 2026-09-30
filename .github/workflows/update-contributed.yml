@@ -22,7 +22,9 @@ jobs:
       - name: Update README table
         env:
           GH_USERNAME: iamtyroon
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Needs a PAT with `repo` scope: the default GITHUB_TOKEN cannot
+          # read private repositories, so Procureline would be invisible.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: |
           python scripts/update_contributed.py
           python scripts/update_active.py
